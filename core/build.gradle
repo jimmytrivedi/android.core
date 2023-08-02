@@ -48,9 +48,9 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'in.jimmytrivedi'
-                artifactId = 'android.core'
-                version = '1.0.0'
+                groupId = 'in.jimmytrivedi.android.core'
+                artifactId = 'toast'
+                version = '1.0.1'
             }
         }
     }
